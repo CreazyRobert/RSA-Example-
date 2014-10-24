@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EA7F3996-7A5F-40B1-8890-18DDDF8ABAE4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RSA Example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2A204927-3700-4565-9651-E3FAE6F7B9EF</key>
+		<string>https://github.com/jslim89/RSA-Example.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RSA Example.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2A204927-3700-4565-9651-E3FAE6F7B9EF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jslim89/RSA-Example.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2A204927-3700-4565-9651-E3FAE6F7B9EF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2A204927-3700-4565-9651-E3FAE6F7B9EF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RSA-Example</string>
+		</dict>
+	</array>
+</dict>
+</plist>
